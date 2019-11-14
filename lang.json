@@ -101,7 +101,7 @@
         "nativeName":"ဗမာစာ"
     },
     "ca":{
-        "name":"Catalan; Valencian",
+        "name":"Catalan",
         "nativeName":"Català"
     },
     "ch":{
@@ -213,7 +213,7 @@
         "nativeName":"Deutsch"
     },
     "el":{
-        "name":"Greek, Modern",
+        "name":"Greek",
         "nativeName":"Ελληνικά"
     },
     "gn":{
@@ -233,7 +233,7 @@
         "nativeName":"Hausa, هَوُسَ"
     },
     "he":{
-        "name":"Hebrew (modern)",
+        "name":"Hebrew",
         "nativeName":"עברית",
         "rtl": true
     },
@@ -522,12 +522,12 @@
         "nativeName":"پښتو"
     },
     "pt":{
-        "name":"Portuguese",
-        "nativeName":"Português"
+        "name":"European Portuguese",
+        "nativeName":"Português Europeu"
     },
     "pt-BR":{
-        "name":"Portuguese (Brazil)",
-        "nativeName":"Português brasileiro"
+        "name":"Brazilian Portuguese",
+        "nativeName":"Português do Brasil"
     },
     "qu":{
         "name":"Quechua",
